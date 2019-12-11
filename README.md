@@ -1,2 +1,3 @@
 # Hello-world
-My first repository on GitHub
+Hi everybody!
+My name is Andreea and I am interested in Software Testing proccesses.
